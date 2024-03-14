@@ -1,0 +1,4 @@
+pandas==2.2.1
+mongoengine==0.28.2
+ipykernel==6.29.3
+ipython==8.22.2
